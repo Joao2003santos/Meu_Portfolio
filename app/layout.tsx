@@ -4,8 +4,8 @@ import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Meu Portfólio",
-  description: "Portfólio de projetos e experiência em desenvolvimento.",
+  title: "Meu Portfólio - Desenvolvedor Web",
+  description: "Portfólio de projetos e experiência em desenvolvimento. ",
 };
 
 export default function RootLayout({

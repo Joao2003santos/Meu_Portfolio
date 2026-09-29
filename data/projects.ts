@@ -18,9 +18,9 @@ export const projects: Project[] = [
   // },
   {
     id: '1',
-    title:'Calculadora',
+    title:'Calculadora Simples',
     description: 'Calculadora desenvolvida com JavaScript',
     tags: ['HTML','CSS','JavaScript'],
-    githubUrl: 'https://github.com/seu-usuario/projeto-3',
+    githubUrl: 'https://github.com/Joao2003santos/Calculadora_Simples',
   },
 ];

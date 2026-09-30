@@ -7,11 +7,11 @@ export default function Home() {
 
    <main className="max-w-4xl mx-auto px-4 py-12 space-y-12">
       {/* Apresentação Inicial (Hero) */}
-      <section className="space-y-4">
-        <h1 className="text-4xl font-extrabold text-gray-200 sm:text-5xl tracking-tight">
-          Olá, sou Desenvolvedor de Software 👋
+      <section className="space-y-4 text-center">
+        <h1 className="text-4xl  font-extrabold text-gray-200 sm:text-5xl tracking-tight">
+          Olá, sou Desenvolvedor de Software 👋​​💻​
         </h1>
-        <p className="text-lg text-gray-400 max-w-2xl">
+        <p className="text-lg  text-gray-400 ">
           Estudante de Ciência da Computação focado na criação de soluções web eficientes, 
           performáticas e com foco na experiência do usuário.
         </p>

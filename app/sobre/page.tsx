@@ -80,7 +80,7 @@ export default function SobrePage() {
           <h3 className="text-lg font-bold text-gray-900">
             Técnico em Analise e Desenvolvimento de Sistemas
           </h3>
-          <p className="text-sm bg-blue-900 p-1 w-36 text-white mt-1">Concluido em 2021</p>
+          <p className="text-sm bg-blue-900 p-1 w-36 text-white mt-1">Concluido em 2022</p>
           <p className="text-gray-600 text-sm mt-3">
             Foco em criação, implementação e manutenção de softwares e sistemas computacionais.
           </p>
